@@ -1,3 +1,4 @@
+// Loads Code into environment
 var utils  = require('course-utilities');
 var mit = utils.load('./mit.js', 'mit');
 
